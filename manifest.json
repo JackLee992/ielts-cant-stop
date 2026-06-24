@@ -1,0 +1,10 @@
+{
+  "id": "immerse-learning",
+  "name": "Immerse Learning",
+  "version": "0.9.8",
+  "minAppVersion": "1.5.0",
+  "description": "Turn YouTube clippings into an immersive English learning workspace with synced captions, dictionaries, drills, review, and shadowing media.",
+  "author": "JackLee992",
+  "authorUrl": "https://github.com/JackLee992",
+  "isDesktopOnly": true
+}
