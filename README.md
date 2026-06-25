@@ -97,6 +97,21 @@ keeps it auto-updated from this repository.
 4. BRAT downloads the latest release into your vault.
 5. Enable **Immerse Learning** in Community Plugins, then open its settings.
 
+### macOS Companion App
+
+For local article read-aloud, download the macOS companion app from the
+[latest release](https://github.com/JackLee992/ielts-cant-stop/releases/latest):
+
+```text
+ielts-cant-stop-companion-macos-arm64-0.1.0-unsigned.zip
+```
+
+Unzip it and open **雅思不能停.app** before using article read-aloud in Obsidian.
+The companion app includes the packaged local voice-engine helper, so users do
+not need to install Python manually.
+
+This beta build is ad-hoc signed but not Developer ID notarized yet.
+
 ### Manual install
 
 1. Download `main.js`, `manifest.json`, `styles.css`, and `tools/local-tts/`
